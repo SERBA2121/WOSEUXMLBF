@@ -27,3 +27,4 @@ LBF - Lags But Flagship,The firmware is designed with an emphasis on flagship fe
 - Correct work is guaranteed only on emerald_r (RN14S)
 - Autobrightness doesn't work correctly
 - Let the rom settle for 6-12 hours.
+- KSU by default 
