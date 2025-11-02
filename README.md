@@ -28,4 +28,4 @@ LBF - Lags But Flagship,The firmware is designed with an emphasis on flagship fe
 - Autobrightness doesn't work correctly
 - Let the rom settle for 6-12 hours.
 - KSU by default 
-- If on poco launcher dont work, use install this module - https://t.me/EmeraldDiscuss/36658/183343
+- If on poco launcher dont work, install this module - https://t.me/EmeraldDiscuss/36658/183343
